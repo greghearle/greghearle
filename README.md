@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Greg Hearle</h1>
 <h3 align="center">A Software Developer and Classical Musician from London, UK</h3>
 
-<h3 align="center">![Greg Hearle](https://i.ibb.co/54SQj5K/profile.jpg)</h3>
+![Greg Hearle](https://i.ibb.co/54SQj5K/profile.jpg)
 
 - 🔭 I’m currently looking to **start my career in tech**
 
