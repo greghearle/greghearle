@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Greg Hearle</h1>
 <h3 align="center">A Software Developer and Classical Musician from London, UK</h3>
 
+<h3 align="center">![Greg Hearle](https://media.licdn.com/dms/image/D4E03AQFt-CSUgdPYWw/profile-displayphoto-shrink_800_800/0/1671097661332?e=1680134400&v=beta&t=f4gcBYWYWCEFRLs0IwGwJeDpskG4FpL1ZTtGvJS6UeI)</h3>
+
 - 🔭 I’m currently looking to **start my career in tech**
 
 - 🌱 I’m currently learning **Python, Java, SQL, HTML, CSS and Django**
