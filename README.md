@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Greg Hearle</h1>
 <h3 align="center">A Software Developer and Classical Musician from London, UK</h3>
 
-- 🔭 I’m currently working on **a scheduling app**
+- 🔭 I’m currently looking to **start my career in tech**
 
-- 🌱 I’m currently learning **Python, Javascript**
+- 🌱 I’m currently learning **Python, Java, SQL, HTML, CSS and Django**
 
 - 👨‍💻 All of my bootcamp projects are available at [https://www.hyperiondev.com/portfolio/118228/](https://www.hyperiondev.com/portfolio/118228/)
 
