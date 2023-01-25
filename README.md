@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer and Classical Musician from London, UK</h3>
 
 <p align="center">
-  <img src="http://some_place.com/image.png](https://i.ibb.co/54SQj5K/profile.jpg" />
+  <a href="https://ibb.co/B3Qh6gn"><img src="https://i.ibb.co/54SQj5K/profile.jpg" alt="profile" border="0"></a>
 </p>
 
 - 🔭 I’m currently looking to **start my career in tech**
